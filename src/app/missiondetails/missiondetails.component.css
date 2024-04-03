@@ -1,0 +1,33 @@
+.detail-header{
+    display: flex;
+}
+
+.detail-container{
+    background-color: #d6b788;
+    padding: 20px;
+    margin: 25px 0px;
+    border-radius: 10px;
+}
+
+.detail-data-container{
+    font-family: sans-serif;
+    margin: 0px 25px;
+}
+
+.data-container{
+    margin: 20px 0px;
+}
+
+
+.detail-title{
+    color:#ff5e00;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.icon{
+    margin:10px;
+    height:25px;
+    width:25px;
+}
+

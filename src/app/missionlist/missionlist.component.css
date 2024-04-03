@@ -1,0 +1,30 @@
+.item-header{
+    display: flex;
+}
+
+.item-container{
+    background-color: aqua;
+    padding: 20px;
+    margin: 25px 0px;
+    border-radius: 10px;
+}
+
+.item-image img {
+    height: 50px;
+    width: 50px;
+}
+
+.item-data{
+    margin: 0px 25px;
+}
+
+.item-mission-name,
+.item-launch-year,
+.item-details{
+    font-family: sans-serif
+}
+
+.item-mission-name{
+    font-weight: bold;
+    font-size: xx-large;
+}
